@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_tuoi\bin\Debug\Kiem_tra_tuoi.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_tuoi\bin\Debug\Kiem_tra_tuoi.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_tuoi\bin\Debug\Kiem_tra_tuoi.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_tuoi\obj\Debug\Kiem_tra_tuoi.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_tuoi\obj\Debug\Kiem_tra_tuoi.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_tuoi\obj\Debug\Kiem_tra_tuoi.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_tuoi\obj\Debug\Kiem_tra_tuoi.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_tuoi\obj\Debug\Kiem_tra_tuoi.pdb

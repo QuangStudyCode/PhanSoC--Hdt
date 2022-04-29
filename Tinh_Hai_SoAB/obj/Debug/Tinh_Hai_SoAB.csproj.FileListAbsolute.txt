@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_Hai_SoAB\bin\Debug\Tinh_Hai_SoAB.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_Hai_SoAB\bin\Debug\Tinh_Hai_SoAB.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_Hai_SoAB\bin\Debug\Tinh_Hai_SoAB.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_Hai_SoAB\obj\Debug\Tinh_Hai_SoAB.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_Hai_SoAB\obj\Debug\Tinh_Hai_SoAB.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_Hai_SoAB\obj\Debug\Tinh_Hai_SoAB.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_Hai_SoAB\obj\Debug\Tinh_Hai_SoAB.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_Hai_SoAB\obj\Debug\Tinh_Hai_SoAB.pdb

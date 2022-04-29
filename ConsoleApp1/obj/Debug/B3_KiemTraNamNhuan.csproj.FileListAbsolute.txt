@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\GĐ2-2022\Winform\LuyenTap1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\ConsoleApp1\obj\Debug\B3_KiemTraNamNhuan.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\ConsoleApp1\obj\Debug\B3_KiemTraNamNhuan.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\ConsoleApp1\obj\Debug\B3_KiemTraNamNhuan.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\GĐ2-2022\Winform\LuyenTap1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

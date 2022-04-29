@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\B2_KtraChanLe\bin\Debug\B2_KtraChanLe.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\B2_KtraChanLe\bin\Debug\B2_KtraChanLe.exe
+F:\GĐ2-2022\Winform\LuyenTap1\B2_KtraChanLe\bin\Debug\B2_KtraChanLe.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\B2_KtraChanLe\obj\Debug\B2_KtraChanLe.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\B2_KtraChanLe\obj\Debug\B2_KtraChanLe.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\B2_KtraChanLe\obj\Debug\B2_KtraChanLe.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\B2_KtraChanLe\obj\Debug\B2_KtraChanLe.exe
+F:\GĐ2-2022\Winform\LuyenTap1\B2_KtraChanLe\obj\Debug\B2_KtraChanLe.pdb

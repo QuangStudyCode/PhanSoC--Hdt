@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\DienTichCacHinh\bin\Debug\DienTichCacHinh.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\DienTichCacHinh\bin\Debug\DienTichCacHinh.exe
+F:\GĐ2-2022\Winform\LuyenTap1\DienTichCacHinh\bin\Debug\DienTichCacHinh.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\DienTichCacHinh\obj\Debug\DienTichCacHinh.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\DienTichCacHinh\obj\Debug\DienTichCacHinh.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\DienTichCacHinh\obj\Debug\DienTichCacHinh.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\DienTichCacHinh\obj\Debug\DienTichCacHinh.exe
+F:\GĐ2-2022\Winform\LuyenTap1\DienTichCacHinh\obj\Debug\DienTichCacHinh.pdb

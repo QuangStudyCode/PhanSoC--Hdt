@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Lon_be\bin\Debug\Ktra_Lon_be.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Lon_be\bin\Debug\Ktra_Lon_be.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Lon_be\bin\Debug\Ktra_Lon_be.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Lon_be\obj\Debug\Ktra_Lon_be.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Lon_be\obj\Debug\Ktra_Lon_be.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Lon_be\obj\Debug\Ktra_Lon_be.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Lon_be\obj\Debug\Ktra_Lon_be.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Lon_be\obj\Debug\Ktra_Lon_be.pdb

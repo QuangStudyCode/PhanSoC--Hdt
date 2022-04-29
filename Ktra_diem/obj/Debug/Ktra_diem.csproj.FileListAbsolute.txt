@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_diem\bin\Debug\Ktra_diem.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_diem\bin\Debug\Ktra_diem.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_diem\bin\Debug\Ktra_diem.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_diem\obj\Debug\Ktra_diem.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_diem\obj\Debug\Ktra_diem.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_diem\obj\Debug\Ktra_diem.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_diem\obj\Debug\Ktra_diem.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_diem\obj\Debug\Ktra_diem.pdb

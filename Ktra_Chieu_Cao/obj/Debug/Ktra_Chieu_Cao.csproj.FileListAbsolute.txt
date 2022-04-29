@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Chieu_Cao\bin\Debug\Ktra_Chieu_Cao.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Chieu_Cao\bin\Debug\Ktra_Chieu_Cao.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Chieu_Cao\bin\Debug\Ktra_Chieu_Cao.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Chieu_Cao\obj\Debug\Ktra_Chieu_Cao.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Chieu_Cao\obj\Debug\Ktra_Chieu_Cao.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Chieu_Cao\obj\Debug\Ktra_Chieu_Cao.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Chieu_Cao\obj\Debug\Ktra_Chieu_Cao.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_Chieu_Cao\obj\Debug\Ktra_Chieu_Cao.pdb

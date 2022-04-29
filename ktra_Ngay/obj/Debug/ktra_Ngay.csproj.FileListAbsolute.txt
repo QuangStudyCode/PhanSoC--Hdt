@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\ktra_Ngay\bin\Debug\ktra_Ngay.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\ktra_Ngay\bin\Debug\ktra_Ngay.exe
+F:\GĐ2-2022\Winform\LuyenTap1\ktra_Ngay\bin\Debug\ktra_Ngay.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\ktra_Ngay\obj\Debug\ktra_Ngay.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\ktra_Ngay\obj\Debug\ktra_Ngay.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\ktra_Ngay\obj\Debug\ktra_Ngay.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\ktra_Ngay\obj\Debug\ktra_Ngay.exe
+F:\GĐ2-2022\Winform\LuyenTap1\ktra_Ngay\obj\Debug\ktra_Ngay.pdb

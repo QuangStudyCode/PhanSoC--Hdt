@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_so_AD\bin\Debug\Kiem_tra_so_AD.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_so_AD\bin\Debug\Kiem_tra_so_AD.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_so_AD\bin\Debug\Kiem_tra_so_AD.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_so_AD\obj\Debug\Kiem_tra_so_AD.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_so_AD\obj\Debug\Kiem_tra_so_AD.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_so_AD\obj\Debug\Kiem_tra_so_AD.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_so_AD\obj\Debug\Kiem_tra_so_AD.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Kiem_tra_so_AD\obj\Debug\Kiem_tra_so_AD.pdb

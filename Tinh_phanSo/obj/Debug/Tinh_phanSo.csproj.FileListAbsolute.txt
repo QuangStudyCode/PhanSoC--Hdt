@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_phanSo\bin\Debug\Tinh_phanSo.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_phanSo\bin\Debug\Tinh_phanSo.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_phanSo\bin\Debug\Tinh_phanSo.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_phanSo\obj\Debug\Tinh_phanSo.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_phanSo\obj\Debug\Tinh_phanSo.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_phanSo\obj\Debug\Tinh_phanSo.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_phanSo\obj\Debug\Tinh_phanSo.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Tinh_phanSo\obj\Debug\Tinh_phanSo.pdb

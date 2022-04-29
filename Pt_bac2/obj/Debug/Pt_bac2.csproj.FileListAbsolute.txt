@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Pt_bac2\bin\Debug\Pt_bac2.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Pt_bac2\bin\Debug\Pt_bac2.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Pt_bac2\bin\Debug\Pt_bac2.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Pt_bac2\obj\Debug\Pt_bac2.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Pt_bac2\obj\Debug\Pt_bac2.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Pt_bac2\obj\Debug\Pt_bac2.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Pt_bac2\obj\Debug\Pt_bac2.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Pt_bac2\obj\Debug\Pt_bac2.pdb

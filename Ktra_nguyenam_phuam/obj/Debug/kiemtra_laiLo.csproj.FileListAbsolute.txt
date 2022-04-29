@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_nguyenam_phuam\bin\Debug\Ktra_nguyenam_phuam.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_nguyenam_phuam\bin\Debug\Ktra_nguyenam_phuam.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_nguyenam_phuam\bin\Debug\Ktra_nguyenam_phuam.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_nguyenam_phuam\obj\Debug\kiemtra_laiLo.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_nguyenam_phuam\obj\Debug\kiemtra_laiLo.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_nguyenam_phuam\obj\Debug\kiemtra_laiLo.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_nguyenam_phuam\obj\Debug\Ktra_nguyenam_phuam.exe
+F:\GĐ2-2022\Winform\LuyenTap1\Ktra_nguyenam_phuam\obj\Debug\Ktra_nguyenam_phuam.pdb

@@ -1,0 +1,8 @@
+F:\GĐ2-2022\Winform\LuyenTap1\B1_IfElse\bin\Debug\B1_IfElse.exe.config
+F:\GĐ2-2022\Winform\LuyenTap1\B1_IfElse\bin\Debug\B1_IfElse.exe
+F:\GĐ2-2022\Winform\LuyenTap1\B1_IfElse\bin\Debug\B1_IfElse.pdb
+F:\GĐ2-2022\Winform\LuyenTap1\B1_IfElse\obj\Debug\B1_IfElse.csproj.AssemblyReference.cache
+F:\GĐ2-2022\Winform\LuyenTap1\B1_IfElse\obj\Debug\B1_IfElse.csproj.SuggestedBindingRedirects.cache
+F:\GĐ2-2022\Winform\LuyenTap1\B1_IfElse\obj\Debug\B1_IfElse.csproj.CoreCompileInputs.cache
+F:\GĐ2-2022\Winform\LuyenTap1\B1_IfElse\obj\Debug\B1_IfElse.exe
+F:\GĐ2-2022\Winform\LuyenTap1\B1_IfElse\obj\Debug\B1_IfElse.pdb
